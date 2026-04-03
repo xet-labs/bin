@@ -1,0 +1,44 @@
+# Dependency files
+vendor/bin
+
+# Configs | keys
+*.local
+*.env
+*.pem
+*private.key
+*.priv
+*.bkp
+secrets.*
+
+# Binaries | plugins
+*.out
+*.test
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.db
+
+# Temp
+*.tmp
+*.tmp.*
+*/tmp
+
+# Build
+/build/
+/dist/
+*.log
+
+# Residue
+*/__pycache__/
+*.pyc
+
+# OS/IDE's
+*Thumbs.db
+*.clj-kondo/
+*.idea/
+*.lsp/
+*.vscode/
+*.DS_Store
+*.swp

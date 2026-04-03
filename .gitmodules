@@ -1,0 +1,9 @@
+[submodule "py"]
+	path = py
+	url = https://github.com/xet-labs/bin-py.git
+[submodule "sh"]
+	path = sh
+	url = https://github.com/xet-labs/bin-sh.git
+[submodule "win"]
+	path = win
+	url = https://github.com/xet-labs/bin-win.git
